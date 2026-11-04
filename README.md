@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Prashitha Umasekaran 👋
 
-<!--
-**Prashitha-Umasekaran/Prashitha-Umasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Analytics | Business Analysis | Cybersecurity & Risk Analytics
 
-Here are some ideas to get you started:
+I'm an MBA in Business Analytics candidate with a Computer Science background and a postgraduate diploma in Cybersecurity & Digital Forensics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming data into meaningful business insights, analysing operational challenges, and understanding cybersecurity risks.
+
+### Areas of Interest
+- Business Analytics & Data Analysis
+- SQL & Power BI
+- Business Intelligence & Reporting
+- Cybersecurity Risk Assessment
+- Governance, Risk & Compliance (GRC)
+
+### Technical Skills
+- **Analytics:** Excel, Google Sheets, Power BI
+- **Database:** SQL, MySQL
+- **Programming:** Python (Beginner)
+- **Cybersecurity:** Risk Analysis, Security Awareness, Digital Forensics
+
+### Featured Projects
+More project details coming soon!
+
+### Currently Learning
+- Advanced SQL
+- Power BI Dashboard Development
+- Business Analytics
+- Cybersecurity Governance & Risk Management
+
+### Connect With Me
+- [LinkedIn](https://linkedin.com/in/prashitha-u-415a47232/)
+- [GitHub](https://github.com/Prashitha-Umasekaran)
