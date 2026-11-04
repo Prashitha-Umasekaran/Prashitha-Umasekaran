@@ -1,3 +1,7 @@
+![Prashitha's Professional Banner](./a8edd064-8398-4cce-9f9b-2553fc1aff0d.png)
+
+---
+
 # Hi, I'm Prashitha Umasekaran 👋
 
 ### Business Analytics | Business Analysis | Cybersecurity & Risk Analytics
