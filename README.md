@@ -49,5 +49,4 @@ I'm interested in using data and business analysis to understand operational cha
 
 ### Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/prashitha-u-415a47232/)
-- [GitHub](https://github.com/Prashitha-Umasekaran)415a47232/)
 - [GitHub](https://github.com/Prashitha-Umasekaran)
