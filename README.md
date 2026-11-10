@@ -24,13 +24,16 @@ I'm interested in using data and business analysis to understand operational cha
 
 ### Selected Projects
 
-1. **[Credit Risk Prediction](https://github.com/Prashitha-Umasekaran/credit-risk-prediction)**  
+1. **[Wazuh Cybersecurity Risk Analysis](https://github.com/Prashitha-Umasekaran/wazuh-cybersecurity-risk-analysis)**  
+   Historical hands-on case study using Wazuh, Kali Linux and Power BI to review security events, interpret potential risks and communicate findings through dashboards. Includes archived screenshots and documented evidence limitations.
+
+2. **[Credit Risk Prediction](https://github.com/Prashitha-Umasekaran/credit-risk-prediction)**  
    Credit risk and loan delinquency analysis using a Forage job simulation and independent Python analysis.
 
-2. **[Cybersecurity Risk Governance](https://github.com/Prashitha-Umasekaran/cyber-risk-goverance-platform)**  
+3. **[Cybersecurity Risk Governance](https://github.com/Prashitha-Umasekaran/cyber-risk-goverance-platform)**  
    A risk governance project involving a risk register, SQL queries and a Power BI dashboard file.
 
-3. **[Enterprise Ransomware Risk Analysis](https://github.com/Prashitha-Umasekaran/enterprise-ransomware-risk-analysis-case-study)**  
+4. **[Enterprise Ransomware Risk Analysis](https://github.com/Prashitha-Umasekaran/enterprise-ransomware-risk-analysis-case-study)**  
    A cybersecurity case study examining ransomware risks, business impact and mitigation measures.
 
 4. **[Cybersecurity Risk Analysis Case Study](https://github.com/Prashitha-Umasekaran/Cybersecurity-Risk-Analysis-Case-Study)**  
