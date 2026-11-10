@@ -36,8 +36,6 @@ I'm interested in using data and business analysis to understand operational cha
 4. **[Enterprise Ransomware Risk Analysis](https://github.com/Prashitha-Umasekaran/enterprise-ransomware-risk-analysis-case-study)**  
    A cybersecurity case study examining ransomware risks, business impact and mitigation measures.
 
-4. **[Cybersecurity Risk Analysis Case Study](https://github.com/Prashitha-Umasekaran/Cybersecurity-Risk-Analysis-Case-Study)**  
-   A case study focused on threat identification, risk assessment and mitigation planning.
 
 ### Education
 - MBA – Business Analytics | NITTTR Chennai (2025–2027)
